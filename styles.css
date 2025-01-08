@@ -7,10 +7,12 @@ table ,td,tr{
 }
 #t31{
 	background-color : green;
+	border : hidden;
 	
 }
 #t33{
 		background-color : blue;
+	     border : hidden
 }
 .t-image{
     align-content : center:
